@@ -1,1 +1,1 @@
-https://balashovama.github.io/Employees/src
+https://balashovama.github.io/Employees/public
